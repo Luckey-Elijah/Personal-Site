@@ -39,7 +39,7 @@ export default function(Vue, { router, head, isClient }) {
   head.meta.push({
     name: "keywords",
     content:
-      "Python, Dart, Shell Scripting, PowerShell, Go, Java, C/C++, SQL, HTML5, CSS, Rust JavaScript, Systems & Technologies, Git, PostgreSQL, MySQL, Firebase (NoSQL), AWS, Serverless/Lambda, Microsoft Office Suite, G-Suite, Slack, Airtable, Windows 10, Windows Server 2012 R2, Ubuntu, CentOS, MacOS, Android Studio, Xcode, Lakeland, Florida, Freelancer",
+      "Python, Dart, Shell Scripting, PowerShell, Go, Java, C/C++, SQL, HTML5, CSS, Rust JavaScript, Git, PostgreSQL, MySQL, Firebase (NoSQL), AWS, Serverless/Lambda, Microsoft Office Suite, G-Suite, Slack, Airtable, Windows 10, Windows Server 2012 R2, Ubuntu, CentOS, MacOS, Android Studio, Xcode, Lakeland, Florida, Freelancer",
   });
 
   head.meta.push({
@@ -58,7 +58,3 @@ export default function(Vue, { router, head, isClient }) {
     href: "https://fonts.googleapis.com/css?family=Nunito+Sans:400,700",
   });
 }
-
-/*
-Python, Dart, Shell Scripting, PowerShell, Go, Java, C/C++, SQL, HTML5, CSS, Rust JavaScript, Systems & Technologies, Git, PostgreSQL, MySQL, Firebase (NoSQL), AWS, Serverless/Lambda, Microsoft Office Suite, G-Suite, Slack, Airtable, Windows 10, Windows Server 2012 R2, Ubuntu, CentOS, MacOS, Android Studio, Xcode
-*/

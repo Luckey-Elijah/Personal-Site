@@ -52,19 +52,6 @@ module.exports = {
         ],
       },
     },
-    {
-      use: "@gridsome/source-filesystem",
-      options: {
-        path: "blog/**/*.md",
-        typeName: "Post",
-        refs: {
-          tags: {
-            typeName: "Tag",
-            create: true,
-          },
-        },
-      },
-    },
 
     {
       use: "@gridsome/plugin-sitemap",
@@ -73,9 +60,6 @@ module.exports = {
       },
     },
   ],
-  templates: {
-    Tag: "/tag/:id",
-  },
   transformers: {
     remark: {
       plugins: [
