@@ -22,7 +22,7 @@
         Elijah Luckey is a student from Lakeland, Florida skilled in web, mobile, and desktop application development. He bases his work out of
         <a
           href="https://catapultlakeland.com"
-        >Catapult Lakeland</a> To see what Elijah is working on now,
+        >Catapult Lakeland</a>. To see what Elijah is working on now,
         check out his
         <a
           href="https://github.com/Luckey-Elijah/"
