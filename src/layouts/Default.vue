@@ -82,8 +82,7 @@
             <a
               href="mailto:luckeyelijah112@gmail.com?subject=Hello%2C%20Elijah!&body=Hi%20Elijah%2C"
               class="text-white hover:text-gray-400 font-normal"
-            >Made with style by E. Luckey.</a> |
-            <a href="/sitemap.xml" class="text-white hover:text-gray-400 font-normal">Sitemap</a>
+            >Made with style by Elijah Luckey.</a>
           </div>
         </div>
         <ul class="flex items-center space-x-8">
