@@ -1,4 +1,6 @@
-# Gridsome Auth0 Starter
+# Elijah Luckey
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9c96886f-5290-4e90-bb2d-870e17fbdc47/deploy-status)](https://app.netlify.com/sites/luckey-elijah/deploys)
 
 A Gridsome starter using Auth0 for user authentication.
 
@@ -31,7 +33,7 @@ A Gridsome starter using Auth0 for user authentication.
 
 ## Notes
 
- - This repo is a fork of this [personal portfolio website](https://github.com/drehimself/gridsome-portfolio-starter).
+- This repo is a fork of this [personal portfolio website](https://github.com/drehimself/gridsome-portfolio-starter).
 
 Happy coding!
 
