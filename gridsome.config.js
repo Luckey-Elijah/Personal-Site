@@ -65,28 +65,7 @@ module.exports = {
         },
       },
     },
-    {
-      use: "gridsome-plugin-rss",
-      options: {
-        contentTypeName: "Post",
-        feedOptions: {
-          title: "Elijah Luckey's Blog",
-          feed_url: "https://elijahluckey.com/rss.xml",
-          site_url: "https://elijahluckey.com",
-        },
-        feedItemOptions: (node) => ({
-          title: node.title,
-          description: node.summary,
-          url: "https://elijahluckey.com" + node.path,
-          author: "Hervé Fulchiron",
-          date: node.date,
-        }),
-        output: {
-          dir: "./static",
-          name: "rss.xml",
-        },
-      },
-    },
+
     {
       use: "@gridsome/plugin-sitemap",
       options: {
